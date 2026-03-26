@@ -1,0 +1,11 @@
+Age,Salary,City,Purchased
+22,20000,Delhi,No
+35,50000,Mumbai,Yes
+26,30000,Delhi,No
+45,80000,Bangalore,Yes
+23,25000,Mumbai,No
+52,90000,Delhi,Yes
+36,60000,Bangalore,Yes
+28,40000,Mumbai,No
+41,70000,Delhi,Yes
+30,45000,Bangalore,No
